@@ -4,7 +4,7 @@
 ## Get Vehicle Details from Registration Number from parivahan.gov site
 
 
-### how to install
+### how to instal➡l
 
 ```bash
 
